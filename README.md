@@ -29,7 +29,7 @@ Recall, [_site.yml](_site.yml) tells Rstudio how to build the site - particularl
 3. Push changes to github. Note, if you're using a custom site for github pages, then github creates a new "CNAME" file, which you'll need to pull. This gets deleted every time you recreate the docs folder, so just be careful not to push the deleted file to github!
 
 
-The final rendered is available [here](https://github.com/imccart/research-template).
+The final rendered site is available [here](https://imccart.github.io/research-template/).
 
 --------------------------------------------------------------------------------
 
