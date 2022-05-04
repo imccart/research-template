@@ -1,0 +1,1 @@
+## folder for raw data (will typically be added to gitignore)

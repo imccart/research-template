@@ -3,7 +3,7 @@
 
 This repo is a template for a research project and companion site. The repo consists of four main areas:
 
-1. the [yaml][_site.yml] file describes the basic layout of the site, which is a landing page with some tabs along the top of the page. Note that the yaml as currently written anticipates that you host the site as part of GitHub pages and that the site's html files are in the [docs](/docs) folder.
+1. the [yaml](_site.yml]) file describes the basic layout of the site, which is a landing page with some tabs along the top of the page. Note that the yaml as currently written anticipates that you host the site as part of GitHub pages and that the site's html files are in the [docs](/docs) folder.
 
 2. The landing page is described in the [index](index.Rmd) file.
 
