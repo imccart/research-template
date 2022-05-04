@@ -26,8 +26,9 @@ This repo is a template for a research project and companion site. The repo cons
   
 ## Directions for Use
 
+Recall, [_site.yml](_site.yml) tells Rstudio how to build the site - particularly, that the site should go into the "docs" folder. To deploy the companion site, follow these steps:
 
-1. Recall, [_site.yml](_site.yml) tells Rstudio how to build the site - particularly, that the site should go into the "docs" folder
+1. Enable github pages
 
 2. Build site with the build site button or rmarkdown::render_site()
 
