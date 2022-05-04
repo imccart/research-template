@@ -1,8 +1,8 @@
-name: "referrals-learning"
+name: "research-template"
 output_dir: docs
 exclude: ["data"]
 navbar:
-  title: "Referrals and Learning"
+  title: "Template for Companion Site"
   left:
     - text: ""
       icon: fa-home
