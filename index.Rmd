@@ -22,4 +22,4 @@ Research Associate • National Bureau of Economic Research<br>
 
 ---
 
-Welcome! This is a small site designed to be a companion for a broader research project. See the repo [here](https://github.com/imccart/research-template).
+Welcome! This is a small site designed to be a companion for a broader research project. See the repo [here](https://github.com/imccart/research-template) for more detailed instructions on how to build the site.

@@ -11,7 +11,11 @@ This repo is a template for a research project and companion site. The repo cons
 
 4. The subdirectories (analysis, data, data-code, html, presentations, results) house other materials relevant for the repo, as described below:
 
-  - [analysis](/analysis) 
+  - [data](data): the raw data...should be added to your .gitignore file
+  - [data-code](data-code): code files for data management (no analysis here)
+  - [analysis](analysis): code files for analysis (anything that goes into the actual paper)
+  - [results](results): output and potentially log files from the analysis, with subdirectories for figures and tables
+  - [presentations](presentations): all files necessary to build different presentations of the paper
   
   
 ## Directions for Use
