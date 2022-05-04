@@ -1,7 +1,3 @@
----
-output: github_document
----
-
 **Ian McCarthy**  
 Department of Economics • Emory University<br>
 Faculty Research Fellow • National Bureau of Economic Research<br>
